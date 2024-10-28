@@ -163,4 +163,35 @@ main{
     color: #757575;
     line-height: 30px;
 }
-/* skill section styles end */
+/* skill resume section styles end */
+.resume-container{
+    display: flex;
+    gap: 40px;
+    margin: 35px 15px;
+}
+.resume-column-title{
+    font-size: 30px;
+    color: #474747;
+    margin: 10px 0;
+}
+.experience-title{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 12px 0;
+    color: #474747;
+}
+.experience-subtitle{
+    font-size: 20px;
+    color: #757575;
+    margin: 10px 0;
+}
+.experience-description{
+    font-size: 16px;
+    color: #757575;
+    margin: 10px 0;
+    line-height: 25px;
+}
+.btn-center{
+    text-align: center;
+    margin-bottom: 30px;
+}
